@@ -11,3 +11,14 @@ A prototype for a beginner's scenario guide to picking and purchasing fragrance 
 <br>
 
 <strong><em>Stretch Goals</em></strong>: Potential stretch goal would be integration of the Sephora REST API by Api Dojo. This would allow users to immediately place an order for the fragrance of their liking via Sephora Cosmetics and potentially make this order for pick up at the nearest location available.
+
+<!--## Technologies Used
+
+-
+-->
+
+## Contact
+
+Feel free to contact me via email at malcolmmack.json@gmail.com
+
+Visit my site to learn more at https://digitalmack.info/
