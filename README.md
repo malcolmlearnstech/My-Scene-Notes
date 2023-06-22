@@ -1,2 +1,13 @@
-# My-Scene-Notes
-A beginner's guide to fragrances for any occasion.
+<div align="center">
+
+# My Scene Notes
+
+</div>
+
+## About
+
+A prototype for a beginner's scenario guide to picking and purchasing fragrance to match an occasion. While only prototyped with fragrances separated by season, the projected goal is to welcome app visitors to a quiz upon entry. The quiz would ask the user questions relating to: season, type of social event(casual, formal, black-tie, etc.), budget range, and time of day, amongst a number of other clarifying questions. These clarifiying questions would ultimately allow My Scene Notes to output a short list of fragrances the user can choose from. List items would include a brief description along with a breakdown of the fragrance notes used to construct the suggested scent.
+
+<br>
+
+<strong><em>Stretch Goals</em></strong>:
