@@ -12,10 +12,11 @@ A prototype for a beginner's scenario guide to picking and purchasing fragrance 
 
 <strong><em>Stretch Goals</em></strong>: Potential stretch goal would be integration of the Sephora REST API by Api Dojo. This would allow users to immediately place an order for the fragrance of their liking via Sephora Cosmetics and potentially make this order for pick up at the nearest location available.
 
-<!--## Technologies Used
+## Technologies Used
 
--
--->
+- React-Native(version 0.64.3): framework for mobile application building
+- Expo (version 44.0.4): used for testing developments in mobile environments; allows to testing on environments of multiple mobile devices
+- React-Navigation(version 4.4.4): allows for users to navigate between screens when choosing options
 
 ## Contact
 
